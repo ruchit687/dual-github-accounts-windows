@@ -533,42 +533,7 @@ Found a bug, an OS quirk, or a clearer way to explain something? PRs welcome.
 
 [MIT](LICENSE) — use it, fork it, share it.
 
-> Before publishing, open `LICENSE` and replace `<Your Name>` with your real name (or GitHub handle).
-
 ---
-
-## Suggested GitHub Topics
-
-When publishing this repo, add these topics in **Settings → General → Topics** for discoverability:
-
-```
-git
-github
-ssh
-ssh-keys
-windows
-windows-10
-windows-11
-powershell
-dotfiles
-gitconfig
-developer-setup
-developer-tools
-productivity
-multi-account
-multiple-github-accounts
-vscode
-github-copilot
-tutorial
-guide
-```
-
-### Suggested repo names
-
-- `dual-github-accounts-windows`
-- `github-multi-account-setup`
-- `windows-git-dual-identity`
-- `git-personal-and-work`
 
 ### Suggested social preview / description
 
